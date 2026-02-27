@@ -7,7 +7,7 @@ const nextConfig = {
                 hostname: 'backoffice.fabdev.fr',
             },
         ],
-        formats: ['image/avif', 'image/webp'],
+        unoptimized: true,
     },
     experimental: {
         optimizeCss: true,

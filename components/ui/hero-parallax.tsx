@@ -115,11 +115,10 @@ export const Header = () => {
     return (
         <div className="max-w-7xl  relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0 z-50">
             <h1 className="text-4xl sm:text-2xl md:text-7xl font-bold dark:text-white">
-              On développe des logiciels métiers, avec de l&apos;intelligence — artificielle et humaine.
+              On développe des logiciels métiers, avec ou sans IA.
             </h1>
             <p className="max-w-3xl text-lg md:text-xl mt-8 mb-5 dark:text-neutral-200">
-                Depuis plus de 10 ans, FabDev conçoit des solutions sur-mesure — plus de 200 projets livrés, du remplacement d&apos;ERP au logiciel qui n&apos;existait nulle part. API, agents IA, algorithmes, automatisation. Avec ou sans IA, chaque projet est un nouveau défi technique — et c&apos;est exactement pour ça qu&apos;on est là.
-
+                Depuis plus de 10 ans, FabDev conçoit des solutions sur-mesure — plus de 200 projets livrés et accompagnés, du remplacement d&apos;ERP au logiciel qui n&apos;existait nulle part. Nous sommes des experts de terrain qui livrent un code souverain et sécurisé.
             </p>
              <div>
               <Link href="/cases/" className="mt-12">
